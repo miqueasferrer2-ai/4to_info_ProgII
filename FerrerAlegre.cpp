@@ -11,7 +11,7 @@ int main() {
     } while (n < 2 || n > 15);
 
     int mikipro[n][2];
-    int vector_resultante[n];
+    int agosnoob[n];
 
     for (int i = 0; i < n; i++) {
     

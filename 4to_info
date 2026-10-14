@@ -30,7 +30,7 @@ int y = vector_resultante[1];
     
       
 
-        if (x < 0 && y < 0 ){
+        if (x < 0 ^ y < 0 ){
             cout << "El vector pertenece al cuadrante 3"<< endl;
         }else if (x > 0 && y > 0){
             cout << "El vector pertenece al cuadrante 1" << endl;

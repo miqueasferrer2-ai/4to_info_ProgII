@@ -10,7 +10,7 @@ int main() {
         cin >> n;
     } while (n < 2 || n > 15);
 
-    int matriz[n][2];
+    int miki [n][2];
     int vector_resultante[n];
 
     for (int i = 0; i < n; i++) {

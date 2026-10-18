@@ -25,7 +25,7 @@ int main() {
     
 if (n==2){
     
-int x = vector_resultante[0];
+int pepa = vector_resultante[0];
 int pepe = vector_resultante[1];
     
       
